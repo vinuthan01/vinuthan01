@@ -1,4 +1,4 @@
-# ⚡ ERROR: ACCESS_GRANTED // Hi, I'm Vinuthan! 
+#  Vinuthan! 
 
 ```config
 [SYSTEM STATUS]: ACTIVE
