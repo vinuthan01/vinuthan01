@@ -1,53 +1,40 @@
-# Hi there, I'm Vinuthan! 👋
+# ⚡ ERROR: ACCESS_GRANTED // Hi, I'm Vinuthan! 
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
-
-### 📊 About Me
-
-Thank you for visiting my GitHub profile! I am a passionate student diving deep into the world of data science, analytics, and software development. I love turning data into insights and learning new technologies along the way.
-
-- 🔭 I’m currently pursuing my **B.Sc in Data Science** at **Loyola Academy**.
-- 🌱 I’m strengthening my foundations in programming and data structures.
-- 🎯 My goals are to master data analysis, machine learning, and predictive modeling.
+```config
+[SYSTEM STATUS]: ACTIVE
+[ROLE]         : B.Sc Data Science Student @ Loyola Academy
+[FOCUS]        : Python | C++ | Core Fundamentals
+```
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 📊 ABOUT_ME.md
 
-Here are the languages I am currently working with to build my core fundamentals:
+> "Turning raw data into actionable insights, one line of code at a time."
 
-<p align="left">
-  <!-- Python Badge -->
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- C++ Badge -->
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+* 🔭 **Current Focus:** Pursuing my B.Sc in Data Science at **Loyola Academy**.
+* 🌱 **Skill Building:** Strengthening core foundations in programming languages and logic.
+* 🎯 **Future Goals:** Mastering data analysis, machine learning algorithms, and predictive modeling.
 
 ---
 
-### 💻 System Status
+### 🚀 TECH_STACK
 
-<p align="center">
-  <img src="https://vercel.app" alt="Hacker Header" />
-</p>
+```python
+# Core languages currently building fundamentals in:
+
+programming_languages = [
+    "Python",     # Scripting, automation, and data structures
+    "C++"         # Core logic, programming fundamentals, and syntax
+]
+
+print("Actively developing skills...")
+```
 
 ---
 
-### 📈 GitHub Stats
+### 💻 SYSTEM_METRICS
 
-<p align="center">
-  <img src="https://vercel.app" alt="Vinuthan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="Vinuthan's Streak Stats" />
-</p>
+* 📈 **GitHub Activity:** Tracking core commits, updates, and repositories.
+* 🛠️ **Environment:** Visual Studio Code, Python IDLE, Command Line.
+* 💬 **Ping Me:** vinuthanbhaai@gmail.com
