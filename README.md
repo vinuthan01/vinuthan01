@@ -25,7 +25,7 @@
 
 programming_languages = [
     "Python",     # Scripting, automation, and data structures
-    "C++"         # Core logic, programming fundamentals, and syntax
+    "C"         # Core logic, programming fundamentals, and syntax
 ]
 
 print("Actively developing skills...")
