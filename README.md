@@ -3,7 +3,7 @@
 ```config
 [SYSTEM STATUS]: ACTIVE
 [ROLE]         : B.Sc Data Science Student @ Loyola Academy
-[FOCUS]        : Python | C++ | Core Fundamentals
+[FOCUS]        : Python | C | Core Fundamentals
 ```
 
 ---
